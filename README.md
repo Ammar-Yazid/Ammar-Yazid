@@ -17,14 +17,6 @@ Disusun berdasarkan teknologi yang paling sering saya gunakan dalam proyek:
 | **Bahasa Pemrograman** | JavaScript, Python |
 | **Alat / Tools** | Git, GitHub, VS Code, Figma, pyCharm |
 
----
-
-### 📊 Statistik GitHub Saya
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Ammar-Yazid&show_icons=true&theme=radial)
-![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Yazid&layout=compact&theme=radial)
-
----
 
 <p align="center">
   Dibuat dengan ❤️ oleh [Nama Kamu]
