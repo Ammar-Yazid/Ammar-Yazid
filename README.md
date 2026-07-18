@@ -1,16 +1,32 @@
-## Hi there 👋
+# Halo semuanya, saya Ammar Yazid! 👋
 
-<!--
-**Ammar-Yazid/Ammar-Yazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tentang Saya
+Saya adalah seorang pengembang yang bersemangat dalam membangun program inovatif dan mempelajari teknologi baru. Saat ini saya sedang berfokus pada pengembangan web development.
 
-Here are some ideas to get you started:
+- 🌱 Saya sedang memperdalam keahlian di bidang fullstack developer
+- 💬 Tanyakan kepada saya tentang **python, javascript, UI/UX designer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🛠️ Teknologi & Alat yang Saya Gunakan
+Disusun berdasarkan teknologi yang paling sering saya gunakan dalam proyek:
+
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Bahasa Pemrograman** | JavaScript, Python |
+| **Alat / Tools** | Git, GitHub, VS Code, Figma, pyCharm |
+
+---
+
+### 📊 Statistik GitHub Saya
+*(Bagian ini akan otomatis menampilkan statistik akun GitHub kamu)*
+
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Ammar-Yazid&show_icons=true&theme=radial)
+![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Yazid&layout=compact&theme=radial)
+
+---
+
+<p align="center">
+  Dibuat dengan ❤️ oleh [Nama Kamu]
+</p>
