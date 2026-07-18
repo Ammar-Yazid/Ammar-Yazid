@@ -3,7 +3,7 @@
 ### 🚀 Tentang Saya
 Saya adalah seorang pengembang yang bersemangat dalam membangun program inovatif dan mempelajari teknologi baru. Saat ini saya sedang berfokus pada pengembangan web development.
 
-- 🌱 Saya sedang memperdalam keahlian di bidang fullstack developer
+- 🌱 Saya sedang memperdalam keahlian di bidang fullstack development
 - 💬 Tanyakan kepada saya tentang **python, javascript, UI/UX designer**
 
 
