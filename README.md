@@ -20,7 +20,6 @@ Disusun berdasarkan teknologi yang paling sering saya gunakan dalam proyek:
 ---
 
 ### 📊 Statistik GitHub Saya
-*(Bagian ini akan otomatis menampilkan statistik akun GitHub kamu)*
 
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Ammar-Yazid&show_icons=true&theme=radial)
 ![Bahasa yang Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Yazid&layout=compact&theme=radial)
