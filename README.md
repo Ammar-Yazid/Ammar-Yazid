@@ -13,10 +13,16 @@ Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pe
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ammar-Yazid&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Ammar-Yazid&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.shion.dev/api?username=Ammar-Yazid&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="10"></td> <td>
+        <img src="https://streak-stats.demolab.com/?user=Ammar-Yazid&theme=dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ## 🏆 GitHub Trophies
