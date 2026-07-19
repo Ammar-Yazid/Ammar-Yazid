@@ -2,10 +2,14 @@
   <img src="https://github.com/user-attachments/assets/744a5329-84ba-41d4-801c-09a68010037c" width="100%" alt="Header Banner Profil" />
 </p>
 
+<hr>
+
 # 💫 About Me:
 Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pengembang yang bersemangat dalam membangun program inovatif dan mempelajari teknologi baru. Saat ini saya sedang berfokus pada pengembangan Web Development.<br><br>    🌱 Saya sedang memperdalam keahlian di bidang Fullstack Developer<br>    💬 Dan juga saya mendalami tentang Python, Javascript, UI/UX Designer<br>
 
-## 🛠️ Languages and Tools
+<hr>
+
+# 🛠️ Languages and Tools:
 
 <br>
 
@@ -16,12 +20,13 @@ Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pe
 
 <hr>
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ammar-Yazid/Ammar-Yazid/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ammar-Yazid/Ammar-Yazid/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ammar-Yazid/Ammar-Yazid/output/github-contribution-grid-snake.svg">
 </picture>   
+
+<hr>
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -37,14 +42,12 @@ Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pe
   </table>
 </p>
 
-## 🏆 GitHub Trophies
+<hr>
+
+# ✨Random Quotes Dev
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ammar-Yazid&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" width="50%"/>
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 
