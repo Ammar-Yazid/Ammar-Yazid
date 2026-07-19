@@ -17,7 +17,3 @@ Disusun berdasarkan teknologi yang paling sering saya gunakan dalam proyek:
 | **Bahasa Pemrograman** | JavaScript, Python |
 | **Alat / Tools** | Git, GitHub, VS Code, Figma, pyCharm |
 
-
-<p align="center">
-  Dibuat dengan ❤️ oleh [Nama Kamu]
-</p>
