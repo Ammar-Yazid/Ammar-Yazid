@@ -1,3 +1,4 @@
+![](https://moewalls.com/anime/kessoku-band-in-the-train-bocchi-the-rock-live-wallpaper/)
 # 💫 About Me:
 Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pengembang yang bersemangat dalam membangun program inovatif dan mempelajari teknologi baru. Saat ini saya sedang berfokus pada pengembangan Web Development.<br><br>    🌱 Saya sedang memperdalam keahlian di bidang Fullstack Developer<br>    💬 Dan juga saya mendalami tentang Python, Javascript, UI/UX Designer<br>
 
