@@ -17,7 +17,6 @@ Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pe
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=Ammar-Yazid&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ammar-Yazid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
