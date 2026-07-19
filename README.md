@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7160b45-409e-4eff-a8ba-241189df62d5"" width="100%" alt="Header Banner Profil" />
+  <img src="https://github.com/user-attachments/assets/13d4bfbe-9371-4bda-a539-169dc95a5436" width="100%" alt="Header Banner Profil" />
 </p>
 ---
-
 # 💫 About Me:
 Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pengembang yang bersemangat dalam membangun program inovatif dan mempelajari teknologi baru. Saat ini saya sedang berfokus pada pengembangan Web Development.<br><br>    🌱 Saya sedang memperdalam keahlian di bidang Fullstack Developer<br>    💬 Dan juga saya mendalami tentang Python, Javascript, UI/UX Designer<br>
 
