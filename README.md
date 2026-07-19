@@ -39,7 +39,13 @@ Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pe
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{Ammar-Yazid}/count.svg" alt="Visitor's Count" />
-</div>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
