@@ -11,7 +11,7 @@ Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pe
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,pycharm,vscode" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark,ps," />
+  <img src="https://skillicons.dev/icons?i=figma,ps," />
 </p>
 
 <hr>
