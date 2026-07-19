@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/936d08a9-3ffe-43b1-adfc-60267aeef05c" width="100%" alt="Header Banner Profil" />
+  <img src="https://github.com/user-attachments/assets/744a5329-84ba-41d4-801c-09a68010037c" width="100%" alt="Header Banner Profil" />
 </p>
 
 # 💫 About Me:
