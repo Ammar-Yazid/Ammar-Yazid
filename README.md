@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/744a5329-84ba-41d4-801c-09a68010037c" width="100%" alt="Header Banner Profil" />
+<p align = "center">
+  <img width="800" height="200" alt="Ammar-Yazid-profile-banner" src="https://github.com/user-attachments/assets/e1ee82d2-e151-422c-921f-4bb7ca4c31f0" width = "100%" />
 </p>
 
 <hr>
