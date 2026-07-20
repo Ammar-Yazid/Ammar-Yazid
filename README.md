@@ -14,7 +14,7 @@ I am a developer passionate about building innovative programs and learning new 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,pycharm,nodejs,vscode,github,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,pycharm,nodejs,vscode,github,figma,ps,git" />
   </a>
 </p>
 
