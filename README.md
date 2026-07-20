@@ -5,7 +5,7 @@
 <hr>
 
 # 💫 About Me:
-Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pengembang yang bersemangat dalam membangun program inovatif dan mempelajari teknologi baru. Saat ini saya sedang berfokus pada pengembangan Web Development.<br><br>    🌱 Saya sedang memperdalam keahlian di bidang Fullstack Developer<br>    💬 Dan juga saya mendalami tentang Python, Javascript, UI/UX Designer<br>
+Hi... My name is Ammar Yazid<br><br>🚀 About me <br><br>I am a developer passionate about building innovative programs and learning new technologies. Currently, I am focusing on web development..<br><br>    🌱 I am deepening my expertise as a full-stack developer.<br>    💬 I am also delving into Python, JavaScript, and UI/UX design.<br>
 
 <hr>
 
