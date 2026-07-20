@@ -42,10 +42,6 @@ I am a developer passionate about building innovative programs and learning new 
 
 <hr>
 
-# ✨Random Quotes Dev
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" width="50%"/>
-</p>
 
 # 👑 Github Badge
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
