@@ -49,5 +49,9 @@ Halo.. Namaku Ammar Yazid<br><br>🚀 Tentang Saya<br><br>Saya adalah seorang pe
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" width="50%"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+  <img src="https://skillicons.dev/icons?i=figma,ps," />
+</p>
 
 
