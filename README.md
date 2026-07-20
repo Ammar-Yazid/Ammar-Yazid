@@ -17,6 +17,7 @@ I am a developer passionate about building innovative programs and learning new 
     <img src="https://skillicons.dev/icons?i=js,html,css,py,pycharm,nodejs,vscode,github,figma,ps" />
   </a>
 </p>
+
 <hr>
 
 <picture>
