@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:22C55E&height=220&section=header&&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&descSize=18&descAlignY=52" alt="Header" width="100%" />
+</div>
 
 <p align = "center">
   <img width="800" height="200" alt="Ammar-Yazid-profile-banner" src="https://github.com/user-attachments/assets/e1ee82d2-e151-422c-921f-4bb7ca4c31f0" width = "100%" />
